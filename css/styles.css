@@ -1,0 +1,56 @@
+body {
+  background-color: #B6D9B7;
+  color: #2B2E22;
+  /*text-align: center;*/
+
+}
+nav {
+  align-items: center;
+  background-color: #3A4A3E;
+}
+nav a {
+  font-family: 'Cabin Sketch', cursive;
+  margin: 5%;
+  border-style: solid;
+  padding: 2px;
+  background-color: #CED1C7;
+  border-align: center;
+
+}
+h1, h2, h3 {
+  text-align: center;
+}
+
+.page-header {
+  width: 100%;
+  font-size: 6em;
+  text-shadow: 5px 5px 5px #54A832;
+
+}
+
+div {
+  text-align: center;
+
+
+}
+img {
+  display: inline-block;
+  width: 40%;
+  padding: 4.125%;
+  
+
+}
+
+ul {
+  text-align: center;
+  list-style: none;
+}
+
+footer {
+  background-color: #B8B8B8;
+  padding: 5px;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+
+}

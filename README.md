@@ -1,4 +1,4 @@
-#This is a Dinosaur Resort Website
+# This is a Dinosaur Resort Website
 
 ## Contributors
 ### Cameron Poore and Colin Kingen
@@ -9,4 +9,4 @@
 ## Created With
 ### HTML, CSS, git branches, Atom, and love.
 
-#### auto-copyright:insert
+#### &copy; 2016 Prehistoric Paradise
