@@ -1,56 +1,67 @@
 body {
-  background-color: #B6D9B7;
-  color: #2B2E22;
-  /*text-align: center;*/
+  background-color: #20290E;
+  color: #FFD080;
 
 }
+
 nav {
-  align-items: center;
-  background-color: #3A4A3E;
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
 }
-nav a {
-  font-family: 'Cabin Sketch', cursive;
-  margin: 5%;
+
+a {
+  color: #C5E3D9;
+  padding: 15px;
+  background-color: #2E324D;
   border-style: solid;
-  padding: 2px;
-  background-color: #CED1C7;
-  border-align: center;
+  border-color: black;
+  margin: 15px;
+
 
 }
-h1, h2, h3 {
+
+h1 {
+  font-size: 72px;
+  background: -webkit-linear-gradient(green, grey);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   text-align: center;
 }
-
-.page-header {
-  width: 100%;
-  font-size: 6em;
-  text-shadow: 5px 5px 5px #54A832;
-
-}
-
-div {
+p,
+h2,
+h3 {
   text-align: center;
-
-
-}
-img {
-  display: inline-block;
-  width: 40%;
-  padding: 4.125%;
-  
-
+  background-color: #062024;
+  margin: -10px;
+  padding: 15px;
 }
 
 ul {
-  text-align: center;
-  list-style: none;
+  font-size: 1.5em;
+  font-style: oblique;
+  border-style: dotted;
+  padding: 15px;
+  padding-left: 45px;
+  list-style: georgian;
 }
 
-footer {
-  background-color: #B8B8B8;
-  padding: 5px;
-  width: 100%;
-  position: absolute;
-  bottom: 0;
+li {
+  margin: 10px;
+  border-style: dashed;
+  border-color: #444969;
+  padding: 15px;
+
+}
+
+img {
+  width: 50%;
+  padding: 17%;
+  border-style: ridge;
+  border-color: black;
+  border-width: 100px;
+  margin: auto;
+
 
 }
